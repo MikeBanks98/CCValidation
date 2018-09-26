@@ -1,5 +1,5 @@
 //credit Card number as an array
-var creditCard = [4,6,8,5,6,3,1,4,5,8,8,1,4,4,6,0]
+var creditCard = [5,8,4,6,6,3,1,4,5,8,8,1,4,4,6,0]
 var sum = 0
 
 //loop through each digit in the credit card number array
